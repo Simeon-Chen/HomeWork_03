@@ -2,7 +2,7 @@ package hw1;
 
 public class HW1 {
 
-Q1. 計算12,6和&積
+//Q1. 計算12,6和&積
 	public static void main(String[] args) {
 		int a = 12, b = 6;
 		System.out.println("12加 6和為" + (a + b));
