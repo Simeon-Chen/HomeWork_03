@@ -36,6 +36,7 @@ public class HW2 {
 		}
 		System.out.println("");
 		System.out.println("------------------------------");
+		
 		int count = 1;
 		int range = 49;
 		for(int i5 =1; i5<=range; i5++) {
